@@ -103,6 +103,7 @@
 </html>
 
 <?php
+    /*
     $arr_post_body = array(
         "message_type" => "SEND",
         "mobile_number" => "639065536901",
@@ -124,5 +125,5 @@
         $response = curl_exec($curl);
         curl_close($curl);
         return $response;
-    }
+    }*/
 ?>
