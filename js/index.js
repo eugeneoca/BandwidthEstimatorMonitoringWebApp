@@ -18,6 +18,11 @@ $(document).ready(function() {
 	});
 
 	$("#discover").click(function(){
+		//window.location.href = "login.php"
+		$("#best").show();
+	});
+
+	$("#apply").click(function(){
 		window.location.href = "login.php"
 	});
 });

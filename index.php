@@ -31,7 +31,7 @@
     	</div>
         <hr/>
         <img src="img/banner.png" class="banner" />
-        <h1 class="text-center lead quote">Customer-experience is our business</h1>
+        <h1 class="text-center lead quote">Customer experience is our business</h1>
         <img src="img/journey.png" class="journey" />
         <h2 class="plan">Discover the right plan for you</h2>
         <div class="row items">
@@ -82,7 +82,7 @@
             </div>
             <button class="btn btn-discover" id="discover">DISCOVER</button>
             <button class="btn btn-apply" id="apply">APPLY</button>
-            <img src="img/biz15.png" class="img rev">
+            <img src="img/biz15.png" class="img rev" id="best" hidden>
         </div>
     </div>
 
