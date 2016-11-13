@@ -1,0 +1,5 @@
+App Flow:
+
+Register/Login
+Educate User on how it works
+Detect what users really need through asking questions on how they use the service.

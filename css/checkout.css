@@ -1,0 +1,106 @@
+body{
+	background-color: #f8f8f8;
+}
+
+.logo{
+	float: left;
+}
+
+.login{
+	color: red;
+}
+
+.btn-signup{
+	border-radius: 0px;
+	background-color: #d12030;
+	color: white;
+	font-size: 25px;
+	margin-top: 70px;
+}
+
+.btn-login{
+	border-radius: 0px;
+	background-color: #d12030;
+	color: white;
+	font-size: 25px;
+	margin-right: 10px;
+	margin-top: 70px;
+}
+
+.btn-login:hover{
+	color: #f8f8f8;
+}
+
+.btn-signup:hover{
+	color: #f8f8f8;
+}
+
+.banner{
+	width: 960px;
+	height: 300px;
+	margin-left: 100px;
+}
+
+.journey{
+	height: 150px;
+	width: 700px;
+	margin-left: 225px;
+	margin-top: 10px;
+}
+
+.quote{
+	font-size: 40px;
+}
+
+.plan{
+	text-align: center;
+	font-size: 20px;
+}
+
+.items{
+	width: 960px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.list-node{
+	width: 200px;
+	margin: 0px auto;
+}
+
+.number-users{
+	width: 50px;
+	margin: 0px auto;
+}
+
+.btn-discover{
+	margin: 0px auto;
+	background-color: #d12030;
+	margin-left: 440px;
+	margin-top: 50px;
+	color: white;
+	font-size: 50px;
+	margin-bottom: 100px;
+}
+
+.btn-discover:hover{
+	color: orange;
+}
+
+.btn-apply{
+	margin-left: 125px;
+	margin-top: 10px;
+	background-color: #d12030;
+	border-radius: 15px;
+	font-size: 25px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.btn-apply:hover{
+	color: white;
+}
+
+.rev{
+	height: 530px;
+}
